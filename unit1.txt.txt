@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hell0 sai
 welcome to accenture
+=======
+hell0 sai
+welcome to accenture
+hiiiiiiiii
+>>>>>>> d3169b7edc2640dc76a3fd976eb84aa02fe2ade3
